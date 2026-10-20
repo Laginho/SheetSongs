@@ -1,0 +1,6 @@
+# Third-party model code, venvs and weights (our launchers in tools/ stay tracked)
+tools/amt-apc/
+tools/etude/
+tools/pop2piano/hf-cache/
+# Source audio (copyrighted; keep out of the public repo)
+sources/
